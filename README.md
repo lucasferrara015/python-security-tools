@@ -33,7 +33,7 @@
 ### 1️⃣ Generador de contraseñas
 
 ```bash
-python password_generator.py
+python password_generator_demo.ipynb
 ```
 - Ingresa la longitud deseada (ej. 16).
 - Recibirás una contraseña segura.
