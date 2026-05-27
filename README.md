@@ -22,7 +22,7 @@
 
 | Herramienta | Archivo | Descripción |
 |-------------|---------|-------------|
-| **Generador de contraseñas** | `password_generator_demo.py` | Crea contraseñas robustas y aleatorias con parámetros personalizables (longitud, tipos de caracteres). |
+| **Generador de contraseñas** | `password_generator_demo.ipynb` | Crea contraseñas robustas y aleatorias con parámetros personalizables (longitud, tipos de caracteres). |
 | **Escáner de puertos** | `port_scanner.py` | Escanea puertos abiertos en una IP o dominio. Ideal para reconocimiento básico de servicios. |
 | **Hash Cracker** | `hash_cracker.py` | Intenta descifrar hashes MD5, SHA1 o SHA256 mediante ataque de diccionario (uso educativo). |
 
